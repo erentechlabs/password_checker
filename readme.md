@@ -61,7 +61,3 @@ Note: No API key is required for the HIBP range endpoint.
 
 - Lint/format as desired.
 - Consider adding unit tests for strength analysis and request mocking for the HIBP call.
-
-## License
-
-MIT (or your preferred license)
